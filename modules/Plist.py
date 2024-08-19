@@ -9,8 +9,8 @@ class Lista:
     
     # Métodos
     def write(self): # Método para añadir un elemento a la lista
-        nombres = ['Perez', 'Lopez', 'Rodriguez', 'Sanchez', 'Garcia',
-                   'Martinez','Hernandez', 'Diaz', 'Perez', 'Lopez',
+        nombres = ['Perez', 'Hernandez', 'Rodriguez', 'Sanchez', 'Garcia',
+                   'Martinez','Migel', 'Diaz', 'Perez', 'Lopez',
                    'Sanchez', 'Garcia', 'Martinez', 'Hernandez', 'Diaz']
         
         nombre = nombres[randint(1, len(nombres) -1)]

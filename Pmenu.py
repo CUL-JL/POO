@@ -1,6 +1,6 @@
 from modules.Plist import * # Importamos la clase Lista y todos sus métodos
-from random import choice # Importamos especificamente la función random.choice
 from datetime import datetime # Importamos la función datetime.datetime
+from random import choice # Importamos especificamente la función random.choice
 
 # Lista de listas con nombres de personas
 listas = [['ramirez', 'perez', 'sanchez', 'torres', 'martinez'],
