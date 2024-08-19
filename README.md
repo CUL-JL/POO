@@ -7,7 +7,7 @@
 3. Enviar y recibir argumentos a través de métodos de la clase.
 4. Aplicar el concepto de mensajes entre objetos a través de la interacción de métodos
 
-### Instrucciones para la Actividad:
+### Instrucciones:
 
 1. Propuesta de Clase:
    - Cada estudiante debe proponer una clase relacionada con una temática de su elección (por ejemplo, Libro, Persona, Producto, etc.).
