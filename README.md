@@ -36,9 +36,3 @@ He propusto, en el archivo `Pmenu.py`, un menu de opciones con el que el usuario
   <summary><b>Plist.py</b></summary>
   <img src="./assets/Plist.png" alt="Plist.py">
 </details>
-
-## Ejecución del código
-
-![Pmenu](./assets/Pmenu.gif)
-# POO
-# POO
